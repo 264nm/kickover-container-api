@@ -1,0 +1,27 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+flask = "*"
+flask-httpauth = "*"
+flask-restful = "*"
+flask-classy = "*"
+flask-api = "*"
+ansicolors = "*"
+"rfc3339" = "*"
+flask-basicauth = "*"
+ipython = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "2.7"
